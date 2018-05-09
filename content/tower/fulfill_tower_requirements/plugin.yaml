@@ -1,0 +1,8 @@
+category: Soleng
+component: Ansible Tower
+name: Ansible Tower Requirements Check
+node_id: '99999'
+product_code: rhel
+python_module: telemetry.rules.plugins.soleng.tower_requirements
+reboot_required: true
+role: host

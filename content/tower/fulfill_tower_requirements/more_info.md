@@ -1,0 +1,2 @@
+- [Red Hat Customer Experience and Engagement](https://access.redhat.com/support) will be able to assist with these steps to ensure the configuration are performed correctly.
+- [Ansible Tower Requirements](http://docs.ansible.com/ansible-tower/latest/html/installandreference/requirements_refguide.html) contains all the details regarding min and recommended requirements.

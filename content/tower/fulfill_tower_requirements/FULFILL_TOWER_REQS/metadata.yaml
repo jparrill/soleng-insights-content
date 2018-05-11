@@ -1,0 +1,12 @@
+condition: Ansible Tower is installed and the requirements are not fulfilled
+description: Ansible Tower is installed on the host and the minimun requirements are not fulfilled for a production environment
+impact: System Performance Loss
+likelihood: 1
+publish_date: '2018-05-09 15:00:00'
+resolution_risk: VM Resize
+severity: WARN
+status: active
+tags:
+- soleng
+- ansible_tower
+
